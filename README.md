@@ -6,7 +6,7 @@ This repository contains a Playwright automation script to generate and download
 
 Click the badge below to run this project directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vikramkumarbosak/video_automation/blob/main/automation_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vikram-Bosak/video_automation/blob/main/automation_colab.ipynb)
 
 ## Instructions
 
