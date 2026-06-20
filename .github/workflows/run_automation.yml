@@ -30,8 +30,8 @@ jobs:
 
       - name: Install Playwright Browsers & Deps
         run: |
-          playwright install chromium
-          sudo $(which python3) -m playwright install-deps chromium
+          python3 -m playwright install chromium
+          sudo npx playwright install-deps chromium
 
       - name: Run Pipeline
         env:
