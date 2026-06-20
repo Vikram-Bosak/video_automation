@@ -1,0 +1,15 @@
+{
+  "google_vids_url": "https://docs.google.com/videos/d/1cPx11a5TSjrCAB9P1CHFaJQ7T2qihHxeJm1W8Y4vHJU/edit",
+  "sheet_id": "YOUR_GOOGLE_SHEET_ID_HERE",
+  "sheet_range": "Sheet1!A2:A4",
+  "drive_folder_id": "YOUR_GOOGLE_DRIVE_FOLDER_ID_HERE",
+  "cookies_path": "cookies.json",
+  "service_account_path": "service_account.json",
+  "download_dir": "downloads",
+  "output_filename": "final_merged_video.mp4",
+  "timeouts": {
+    "page_load_ms": 60000,
+    "video_generation_sec": 60,
+    "download_wait_sec": 30
+  }
+}
